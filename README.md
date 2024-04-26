@@ -2,6 +2,10 @@
 
 Este proyecto es una aplicación que se encarga de gestionar tableros con apuntes al gusto del usuario, desarrollada con Vue 3 y Vite.
 
+### Weblink: [Live Website](https://tableros-vue-js.vercel.app/)
+
+![image](https://github.com/JuanRojasDev/Tableros-vue.js/assets/114270458/8900f429-ad21-4f4d-a9a9-bab79d523e02)
+
 ## Características
 
 - Crear, editar y eliminar tableros.
