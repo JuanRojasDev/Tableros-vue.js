@@ -1,29 +1,25 @@
-# Tableros
+# Tableros con Vue 3 y Vite
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto es una aplicación de tableros al estilo Trello, desarrollada con Vue 3 y Vite.
 
-## Recommended IDE Setup
+## Características
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Crear, editar y eliminar tableros.
+- Crear, editar y eliminar elementos dentro de los tableros.
+- Arrastrar y soltar elementos entre tableros.
+- Confirmación de eliminación para tableros y elementos.
 
-## Customize configuration
+## Configuración del IDE recomendada
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (y desactivar Vetur).
 
-## Project Setup
+## Configuración personalizada
+
+Ver [Referencia de Configuración de Vite](https://vitejs.dev/config/).
+
+## Configuración del proyecto
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
 npm run build
-```
