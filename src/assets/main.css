@@ -254,8 +254,15 @@ header ul li,
 }
 
 @media (max-width: 515px) {
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
   .board {
-    flex: 0 0 calc(50% - 10px);
+    flex: 0 0 100%;
     box-sizing: border-box;
   }
 }
