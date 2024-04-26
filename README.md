@@ -1,6 +1,6 @@
 # Tableros con Vue 3 y Vite
 
-Este proyecto es una aplicación de tableros al estilo Trello, desarrollada con Vue 3 y Vite.
+Este proyecto es una aplicación que se encarga de gestionar tableros con apuntes al gusto del usuario, desarrollada con Vue 3 y Vite.
 
 ## Características
 
