@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@vue/reactivity": "^3.4.25",
+    "uuid": "^9.0.1",
     "vue": "^3.4.25"
   },
   "devDependencies": {

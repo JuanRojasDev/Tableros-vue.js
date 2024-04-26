@@ -10,9 +10,16 @@ function handleKeyDown(evt) {
     text.value = "";
   }
 }
-
 </script>
 
-<template><input v-model="text" @keydown="handleKeyDown" />{{ text }}</template>
+<template>
+  <input
+    v-model="text"
+    @keydown="handleKeyDown"
+    placeholder="Escriba su apunte aquí"
+  />{{ text }}
+</template>
 
-<style scoped></style>
+<style scoped>
+@import "../assets/main.css";
+</style>
