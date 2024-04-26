@@ -23,7 +23,7 @@ Ver [Referencia de Configuración de Vite](https://vitejs.dev/config/).
 
 ### Configuración del proyecto
 
-1. Instalar Vue,js  `npm install -g @vue/cli`.
+1. Instalar Vue,js  `npm install -g @vue/cli`
 2. Instalar las Dependencias del proyecto: `npm install o npm i`
 3. Construir el proyecto: `npm run build`
 4. Ejecutar nuestro proyecto: `npm run dev`
