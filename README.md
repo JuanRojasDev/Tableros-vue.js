@@ -4,7 +4,7 @@ Este proyecto es una aplicación que se encarga de gestionar tableros con apunte
 
 ### Weblink: [Live Website](https://tableros-vue-js.vercel.app/)
 
-![image](https://github.com/JuanRojasDev/Tableros-vue.js/assets/114270458/8900f429-ad21-4f4d-a9a9-bab79d523e02)
+![image](https://github.com/JuanRojasDev/Tableros-vue.js/assets/114270458/6b55f41f-f319-4be7-920a-89e2932d6bbe)
 
 ## Características
 
