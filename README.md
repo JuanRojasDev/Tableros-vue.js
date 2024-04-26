@@ -21,9 +21,10 @@ Este proyecto es una aplicación que se encarga de gestionar tableros con apunte
 
 Ver [Referencia de Configuración de Vite](https://vitejs.dev/config/).
 
-## Configuración del proyecto
+### Configuración del proyecto
 
-```sh
-npm install
-npm run dev
-npm run build
+1. Instalar Vue,js  `npm install -g @vue/cli`.
+2. Instalar las Dependencias del proyecto: `npm install o npm i`
+3. Construir el proyecto: `npm run build`
+4. Ejecutar nuestro proyecto: `npm run dev`
+5. Open a pull request for contribute.
